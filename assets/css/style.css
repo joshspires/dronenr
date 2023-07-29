@@ -41,13 +41,6 @@ body {
     font-size: 16px;
 }
 
-.footer-link {
-    color: #ffffff;
-    text-decoration: none;
-    position: absolute;
-    bottom: 20px;
-}
-
 .parent {
     overflow: auto;
     height: 100dvh;
@@ -72,22 +65,43 @@ section {
     position: relative;
 }
 
+/* Section 1 */
+.one {
+    background-color: #000000;
+}
+
 .main-logo {
     font-family: Roboto;
     font-size: 1.875rem;
 }
 
-
-.two {
-    background-color: #16036f;
-    font-family: brk;
-    font-size: 2.188rem;
+.footer-link {
+    color: #ffffff;
+    text-decoration: none;
+    position: absolute;
+    bottom: 20px;
 }
 
+/* Section 2 */
+.two {
+    background-color: #16036f;
+}
+
+.second-logo {
+    font-family: brk;
+    font-size: 2.188rem;
+    font-weight: normal;
+}
+
+/* Section 3 */
 .three {
     background-color: #ffffff;
+}
+
+.third-logo {
     font-family: EthnocentricRg;
     font-size: 2.188rem;
+    font-weight: normal;
 }
 
 .drnrOG {
