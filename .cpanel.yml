@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/drnr/public_html/
-    - /dronenr -R $DEPLOYPATH 
+    - cp/bin /dronenr -R $DEPLOYPATH 
