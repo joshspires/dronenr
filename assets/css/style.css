@@ -80,6 +80,9 @@ section {
     text-decoration: none;
     position: absolute;
     bottom: 20px;
+    background-color: #222222;
+    padding: 14px;
+    border-radius: 10px;
 }
 
 /* Section 2 */
