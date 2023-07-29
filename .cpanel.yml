@@ -3,4 +3,4 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/drnr/public_html/
     - /index.html $DEPLOYPATH
-    - /assets/css/style.css $DEPLOYPATH 
+    - /assets -R $DEPLOYPATH 
