@@ -65,6 +65,22 @@ section {
     position: relative;
 }
 
+.btn {
+    color: #ffffff;
+    text-decoration: none;
+    position: absolute;
+    bottom: 20px;
+    background-color: #222222;
+    padding: 14px;
+    border: 1px solid #222222;
+    border-radius: 10px;
+}
+
+.btn:hover {
+    background: #000;
+    border: 1px solid #fff;
+}
+
 /* Section 1 */
 .one {
     background-color: #000000;
@@ -73,16 +89,6 @@ section {
 .main-logo {
     font-family: Roboto;
     font-size: 1.875rem;
-}
-
-.footer-link {
-    color: #ffffff;
-    text-decoration: none;
-    position: absolute;
-    bottom: 20px;
-    background-color: #222222;
-    padding: 14px;
-    border-radius: 10px;
 }
 
 /* Section 2 */
