@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/drnr/public_html/
-    - bin/cp /assets/* -R $DEPLOYPATH 
+    - bin cp /assets/* -R $DEPLOYPATH 
