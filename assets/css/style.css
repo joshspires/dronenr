@@ -84,22 +84,22 @@ section {
 
 /* Section 2 */
 .two {
-    background-color: #16036f;
+    background-color: #ffffff;
 }
 
 .second-logo {
-    font-family: brk;
+    font-family: EthnocentricRg;
     font-size: 2.188rem;
     font-weight: normal;
 }
 
 /* Section 3 */
 .three {
-    background-color: #ffffff;
+    background-color: #16036f;
 }
 
 .third-logo {
-    font-family: EthnocentricRg;
+    font-family: brk;
     font-size: 2.188rem;
     font-weight: normal;
 }
