@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/dronenr.com.au
+    - export DEPLOYPATH=/home/josh/dronenr.com.au
     - /bin/cp -R * $DEPLOYPATH
