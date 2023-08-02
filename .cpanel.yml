@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/drnr/public_html/
+    - export DEPLOYPATH=/home/dronenr.com.au
     - /bin/cp -R * $DEPLOYPATH
